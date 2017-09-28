@@ -85,7 +85,7 @@ namespace WindowsFormsApplication1
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Error controlado");
+                MessageBox.Show(ex.Message, "Error controlado", MessageBoxButtons.OK);
             }
         }
     }
