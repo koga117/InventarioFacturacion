@@ -1,0 +1,90 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormInicio.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormRegistro.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormRegCliente.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormInventarioMat.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForminventarioPren.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormFactura.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formloadscreen.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormFactura.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormInventarioMat.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForminventarioPren.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formloadscreen.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormRegCliente.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrador\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormFactura.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormInventarioMat.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForminventarioPren.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formloadscreen.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormRegCliente.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Keim\Desktop\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formregistrodeempleado.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormFactura.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormInventarioMat.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForminventarioPren.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formloadscreen.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormRegCliente.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+I:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+I:\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formregistrodeempleado.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormFactura.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormInventarioMat.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForminventarioPren.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Formloadscreen.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FormRegCliente.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

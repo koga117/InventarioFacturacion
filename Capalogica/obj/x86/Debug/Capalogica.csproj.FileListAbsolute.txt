@@ -1,0 +1,32 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capalogica\bin\Debug\Capalogica.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capalogica\bin\Debug\Capalogica.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.pdb
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capalogica\bin\Debug\Capalogica.exe
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capalogica\bin\Debug\Capalogica.pdb
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.Properties.Resources.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.csproj.GenerateResource.Cache
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.exe
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capalogica\obj\x86\Debug\Capalogica.pdb
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capalogica\bin\Debug\Capalogica.exe
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capalogica\bin\Debug\Capalogica.pdb
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.Properties.Resources.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.csproj.GenerateResource.Cache
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.exe
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.pdb
+D:\WindowsFormsApplication23\Capalogica\bin\Debug\Capalogica.exe
+D:\WindowsFormsApplication23\Capalogica\bin\Debug\Capalogica.pdb
+D:\WindowsFormsApplication23\Capalogica\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.Properties.Resources.resources
+D:\WindowsFormsApplication23\Capalogica\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WindowsFormsApplication23\Capalogica\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.exe
+D:\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capalogica\bin\Debug\Capalogica.exe
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capalogica\bin\Debug\Capalogica.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.Properties.Resources.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.csproj.GenerateResource.Cache
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.exe
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capalogica\obj\x86\Debug\Capalogica.pdb

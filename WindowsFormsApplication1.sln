@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa presentacion", "WindowsFormsApplication1\Capa presentacion.csproj", "{9F779CDC-34C8-41E6-B019-8BC2F3BC9468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capadatos", "Capadatos\Capadatos.csproj", "{CF367F26-A4C6-4986-8C64-1584BC1C3423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capalogica", "Capalogica\Capalogica.csproj", "{F1808C9E-996B-421E-ACDD-9212DF8AA993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F779CDC-34C8-41E6-B019-8BC2F3BC9468}.Debug|x86.ActiveCfg = Debug|x86
+		{9F779CDC-34C8-41E6-B019-8BC2F3BC9468}.Debug|x86.Build.0 = Debug|x86
+		{9F779CDC-34C8-41E6-B019-8BC2F3BC9468}.Release|x86.ActiveCfg = Release|x86
+		{9F779CDC-34C8-41E6-B019-8BC2F3BC9468}.Release|x86.Build.0 = Release|x86
+		{CF367F26-A4C6-4986-8C64-1584BC1C3423}.Debug|x86.ActiveCfg = Debug|x86
+		{CF367F26-A4C6-4986-8C64-1584BC1C3423}.Debug|x86.Build.0 = Debug|x86
+		{CF367F26-A4C6-4986-8C64-1584BC1C3423}.Release|x86.ActiveCfg = Release|x86
+		{CF367F26-A4C6-4986-8C64-1584BC1C3423}.Release|x86.Build.0 = Release|x86
+		{F1808C9E-996B-421E-ACDD-9212DF8AA993}.Debug|x86.ActiveCfg = Debug|x86
+		{F1808C9E-996B-421E-ACDD-9212DF8AA993}.Debug|x86.Build.0 = Debug|x86
+		{F1808C9E-996B-421E-ACDD-9212DF8AA993}.Release|x86.ActiveCfg = Release|x86
+		{F1808C9E-996B-421E-ACDD-9212DF8AA993}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

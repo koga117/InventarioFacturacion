@@ -1,0 +1,34 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capadatos\bin\Debug\Capadatos.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capadatos\bin\Debug\Capadatos.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.exe
+c:\users\estudiante\documents\visual studio 2010\Projects\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.pdb
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\bin\Debug\Capadatos.exe
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\bin\Debug\Capadatos.pdb
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.csprojResolveAssemblyReference.cache
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.Properties.Resources.resources
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.csproj.GenerateResource.Cache
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.exe
+C:\Users\xashe\Desktop\FRIDAY THE 13TH - THE GAME\WindowsFormsApplication1\Capadatos\obj\x86\Debug\Capadatos.pdb
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\bin\Debug\Capadatos.exe
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\bin\Debug\Capadatos.pdb
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.csprojResolveAssemblyReference.cache
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.Properties.Resources.resources
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.csproj.GenerateResource.Cache
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.exe
+C:\Users\Keim\Desktop\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.pdb
+D:\WindowsFormsApplication23\Capadatos\bin\Debug\Capadatos.exe
+D:\WindowsFormsApplication23\Capadatos\bin\Debug\Capadatos.pdb
+D:\WindowsFormsApplication23\Capadatos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.Properties.Resources.resources
+D:\WindowsFormsApplication23\Capadatos\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WindowsFormsApplication23\Capadatos\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.exe
+D:\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capadatos\bin\Debug\Capadatos.exe
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capadatos\bin\Debug\Capadatos.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.Properties.Resources.resources
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.csproj.GenerateResource.Cache
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.exe
+C:\Users\xashe\Documents\WindowsFormsApplication23\Capadatos\obj\x86\Debug\Capadatos.pdb
