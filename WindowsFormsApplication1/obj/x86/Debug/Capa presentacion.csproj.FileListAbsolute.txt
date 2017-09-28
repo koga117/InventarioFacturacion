@@ -88,3 +88,4 @@ C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\
 C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csproj.GenerateResource.Cache
 C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\xashe\Documents\WindowsFormsApplication23\WindowsFormsApplication1\obj\x86\Debug\Capa presentacion.csprojResolveAssemblyReference.cache
